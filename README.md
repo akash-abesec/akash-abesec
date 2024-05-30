@@ -1,6 +1,11 @@
 ![logo](https://github.com/akash-abesec/akash-abesec/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
+<hr>
+<h2>About me<h2/>
+<p>My name is Akash Singh. I am a self-motivated individual with a dynamic personality who has quick learning ability and passion for creating new things. I always love to explore new technologies. Sharing knowledge is my best part. I feel that unless you try to do something beyond what you have already mastered, you will never grow. And by sharing the knowledge I always get a chance to get into the depth of the topics what others want to learn from me.
+<p/>
+<hr>
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-abesec&label=Profile%20views&color=0e75b6&style=flat" alt="akash-abesec" /> </p>
