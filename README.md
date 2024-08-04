@@ -1,4 +1,4 @@
-![logo](https://github.com/akash-abesec/akash-abesec/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(2).png)
+![logo](https://github.com/akash-abesec/akash-abesec/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(3).png)
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 <hr>
