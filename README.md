@@ -40,7 +40,7 @@
 
 - 📫 How to reach me **akash.abesec@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yoeCMAO8ESP24JC0-JGSuWpV37ZBRoz4/view?usp=drive_link](https://drive.google.com/file/d/1yoeCMAO8ESP24JC0-JGSuWpV37ZBRoz4/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qYg-5bduWdxo-iqXUi0fjG5ZVjTNlEpZ/view?usp=drive_link](https://drive.google.com/file/d/1qYg-5bduWdxo-iqXUi0fjG5ZVjTNlEpZ/view?usp=drive_link)
 
 - ⚡ Fun fact **I am funny**
 - 
